@@ -48,7 +48,7 @@
     <Access Scope="LiteralConstant" UId="21">
       <Constant>
         <ConstantType>Int</ConstantType>
-        <ConstantValue>42</ConstantValue>
+        <ConstantValue>420</ConstantValue>
       </Constant>
     </Access>
     <Access Scope="LocalVariable" UId="22">
